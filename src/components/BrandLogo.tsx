@@ -9,11 +9,7 @@ export const BrandLogo: React.FC<BrandLogoProps> = ({ className = '', variant = 
   const isLight = variant === 'light';
 
   return (
-    <div
-      className={`flex items-center justify-center cursor-pointer select-none ${
-        isLight ? 'rounded-lg bg-white p-2 shadow-sm' : ''
-      } ${className}`}
-    >
+    <div className={`flex items-center justify-center cursor-pointer select-none ${className}`}>
       <img
         src="/brand/logo-celia-leopolski.png"
         alt="Célia Leopolski — Corretora de Imóveis"
