@@ -1,0 +1,75 @@
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: true
+
+media_folder: public/uploads
+public_folder: /uploads
+
+locale: pt
+
+collections:
+  - name: properties
+    label: Imóveis
+    label_singular: Imóvel
+    folder: content/properties
+    create: true
+    delete: true
+    slug: "{{id}}"
+    extension: json
+    format: json
+    identifier_field: title
+    summary: "{{title}} — {{code}}"
+    fields:
+      - { label: ID, name: id, widget: string, hint: "Ex: cg-109 (usado no nome do arquivo)" }
+      - { label: Código / Referência, name: code, widget: string, hint: "Ex: REF-CG109" }
+      - { label: Título, name: title, widget: string }
+      - label: Tipo
+        name: type
+        widget: select
+        options:
+          - { label: Casa, value: casa }
+          - { label: Apartamento, value: apartamento }
+          - { label: Cobertura, value: cobertura }
+          - { label: Comercial, value: comercial }
+          - { label: Terreno, value: terreno }
+      - label: Categoria
+        name: category
+        widget: select
+        options:
+          - { label: Venda, value: venda }
+          - { label: Aluguel, value: aluguel }
+          - { label: Lançamento, value: lancamento }
+      - { label: Preço (R$), name: price, widget: number, value_type: int }
+      - { label: Condomínio (R$), name: condoFee, widget: number, value_type: int, required: false }
+      - { label: IPTU anual (R$), name: iptuAnnual, widget: number, value_type: int, required: false }
+      - { label: Bairro / Região, name: neighborhood, widget: string }
+      - { label: Endereço, name: address, widget: string }
+      - { label: Cidade, name: city, widget: string, default: "Rio de Janeiro" }
+      - { label: Estado, name: state, widget: string, default: "RJ" }
+      - { label: Quartos, name: bedrooms, widget: number, value_type: int, default: 0 }
+      - { label: Banheiros, name: bathrooms, widget: number, value_type: int, default: 0 }
+      - { label: Suítes, name: suites, widget: number, value_type: int, default: 0 }
+      - { label: Vagas, name: parkingSpaces, widget: number, value_type: int, default: 0 }
+      - { label: Área (m²), name: areaSqM, widget: number, value_type: int }
+      - { label: Destaque, name: featured, widget: boolean, default: false }
+      - { label: Badge de destaque, name: featuredBadge, widget: string, required: false, hint: "Ex: Destaque Luxo, Oportunidade" }
+      - { label: Descrição, name: description, widget: text }
+      - label: Fotos
+        name: images
+        widget: list
+        allow_add: true
+        min: 1
+        field: { label: Foto, name: image, widget: image }
+      - label: Características
+        name: features
+        widget: list
+        allow_add: true
+        field: { label: Item, name: feature, widget: string }
+      - label: Data de cadastro
+        name: createdAt
+        widget: datetime
+        date_format: YYYY-MM-DD
+        time_format: false
+        format: YYYY-MM-DD

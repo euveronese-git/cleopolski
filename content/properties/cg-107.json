@@ -1,0 +1,33 @@
+{
+  "id": "cg-107",
+  "code": "REF-CG107",
+  "title": "Apartamento de 2 Quartos para Locação Residencial",
+  "type": "apartamento",
+  "category": "aluguel",
+  "price": 1650,
+  "condoFee": 380,
+  "iptuAnnual": 420,
+  "neighborhood": "Campo Grande (Mendanha)",
+  "address": "Estrada do Mendanha, 650",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "suites": 0,
+  "parkingSpaces": 1,
+  "areaSqM": 58,
+  "featured": false,
+  "description": "Ótimo apartamento para locação imediata em condomínio com infraestrutura e portaria 24 horas. Sala em 2 ambientes, 2 quartos arejados, banheiro social com box em blindex, cozinha funcional com área de serviço acoplada. 1 vaga de garagem garantida.",
+  "images": [
+    "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Locação Facilitada (Fiador / Seguro Fiança / CredPago)",
+    "Portaria 24h",
+    "Piscina no Condomínio",
+    "Salão de Festas",
+    "Vaga de Garagem"
+  ],
+  "createdAt": "2026-08-03"
+}

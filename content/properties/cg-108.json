@@ -1,0 +1,36 @@
+{
+  "id": "cg-108",
+  "code": "REF-CG108",
+  "title": "Casa Triplex Luxuosa com Vista para as Montanhas",
+  "type": "casa",
+  "category": "venda",
+  "price": 1290000,
+  "condoFee": 580,
+  "iptuAnnual": 2200,
+  "neighborhood": "Campo Grande (Mendanha Alto Padrão)",
+  "address": "Alameda dos Ipês, 88",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 5,
+  "bathrooms": 6,
+  "suites": 4,
+  "parkingSpaces": 4,
+  "areaSqM": 380,
+  "featured": true,
+  "featuredBadge": "Alto Padrão",
+  "description": "Uma verdadeira obra-prima da arquitetura contemporânea em Campo Grande. Casa triplex com elevador privativo, 5 quartos sendo 4 suítes panorâmicas. Subsolo com garagem coberta para 4 carros, pavimento térreo integrado com sala de estar de pé-direito duplo, cozinha gourmet e piscina de borda infinita.",
+  "images": [
+    "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Elevador Privativo nos 3 Andares",
+    "Piscina com Borda Infinita",
+    "Pé-Direito Duplo",
+    "4 Suítes com Varanda Vista Livre",
+    "Sauna Integrada à Piscina",
+    "Automacão Residencial"
+  ],
+  "createdAt": "2026-07-10"
+}

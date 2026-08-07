@@ -1,0 +1,37 @@
+{
+  "id": "cg-103",
+  "code": "REF-CG103",
+  "title": "Conjunto de Salas Comerciais Prontas na Estrada das Capoeiras",
+  "type": "comercial",
+  "category": "aluguel",
+  "price": 2800,
+  "condoFee": 680,
+  "iptuAnnual": 1400,
+  "neighborhood": "Campo Grande (Centro)",
+  "address": "Estrada das Capoeiras, 563",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 0,
+  "bathrooms": 2,
+  "suites": 0,
+  "parkingSpaces": 2,
+  "areaSqM": 65,
+  "featured": true,
+  "featuredBadge": "Exclusivo Comercial",
+  "description": "Salas corporativas integradas e prontas para uso comercial em prédio de referência business em Campo Grande. Conta com recepção, salas de atendimento privativas com ar-condicionado split instalado, piso elevado corporativo, 2 banheiros e 2 vagas de garagem. Ideal para consultórios, escritórios de advocacia, contabilidade ou empresas de tecnologia.",
+  "images": [
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Estrutura Corporativa Completa",
+    "Ar-condicionado Split em Todos Ambientes",
+    "Recepção Montada",
+    "Circuito Interno de TV / Segurança",
+    "Elevadores Sociais Inteligentes",
+    "Garagem no Subsolo",
+    "Excelente Iluminação Natural"
+  ],
+  "createdAt": "2026-08-02"
+}

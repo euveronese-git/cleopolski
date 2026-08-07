@@ -1,0 +1,37 @@
+{
+  "id": "cg-104",
+  "code": "REF-CG104",
+  "title": "Magnífica Cobertura Duplex Panorâmica",
+  "type": "cobertura",
+  "category": "venda",
+  "price": 1150000,
+  "condoFee": 890,
+  "iptuAnnual": 2400,
+  "neighborhood": "Campo Grande (Bairro Silvestre)",
+  "address": "Estrada do Monteiro, 850",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 4,
+  "bathrooms": 5,
+  "suites": 3,
+  "parkingSpaces": 3,
+  "areaSqM": 290,
+  "featured": true,
+  "featuredBadge": "Lançamento Exclusivo",
+  "description": "Uma das mais elegantes coberturas duplex de Campo Grande. Vista livre deslumbrante para as montanhas e centro do bairro. No primeiro pavimento: amplo salão em 3 ambientes, lavabo, 3 suítes. No segundo pavimento: sala íntima, suíte máster, terraço privativo com piscina com deck de madeira, sauna a vapor e espaço gourmet climatizado com churrasqueira.",
+  "images": [
+    "/uploads/hero_luxury_home_1785941153066.jpg",
+    "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Piscina Privativa com Deck no Terraço",
+    "Sauna a Vapor Privativa",
+    "Vista Panorâmica 360°",
+    "Churrasqueira e Espaço Gourmet",
+    "Acabamento em Mármore e Porcelanato",
+    "3 Vagas de Garagem Na Escritura",
+    "3 Suítes Máster com Varanda"
+  ],
+  "createdAt": "2026-07-25"
+}

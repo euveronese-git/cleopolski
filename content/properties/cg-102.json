@@ -1,0 +1,38 @@
+{
+  "id": "cg-102",
+  "code": "REF-CG102",
+  "title": "Apartamento Moderno com Varanda Gourmet",
+  "type": "apartamento",
+  "category": "venda",
+  "price": 395000,
+  "condoFee": 520,
+  "iptuAnnual": 920,
+  "neighborhood": "Campo Grande (Centro)",
+  "address": "Estrada das Capoeiras, 350",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "suites": 1,
+  "parkingSpaces": 1,
+  "areaSqM": 88,
+  "featured": true,
+  "featuredBadge": "Oportunidade",
+  "description": "Excelente apartamento andar alto no coração de Campo Grande, em localização privilegiada na Estrada das Capoeiras. Sala aconchegante com teto rebaixado em gesso e iluminação em LED, varanda gourmet envidraçada, 3 quartos sendo 1 suíte. Condomínio com infraestrutura clube: piscina resort, academia equipada, salão de festas e playground.",
+  "images": [
+    "/uploads/modern_apartment_1785941178173.jpg",
+    "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Varanda Gourmet Envidraçada",
+    "Condomínio Clube Completo",
+    "Piscina Adulto e Infantil",
+    "Academia Equipada",
+    "Próximo ao Comércio e Transporte",
+    "Armários Embutidos",
+    "Portaria 24 horas",
+    "Vaga Coberta"
+  ],
+  "createdAt": "2026-08-01"
+}

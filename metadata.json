@@ -1,0 +1,6 @@
+{
+  "name": "C. Leopolski Corretora de Imóveis",
+  "description": "Website profissional e imobiliária especializada em vendas e aluguéis de imóveis em Campo Grande e Zona Oeste do Rio de Janeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

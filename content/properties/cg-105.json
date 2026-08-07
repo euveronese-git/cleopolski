@@ -1,0 +1,34 @@
+{
+  "id": "cg-105",
+  "code": "REF-CG105",
+  "title": "Casa Linear Aconchegante com Quintal Amplo",
+  "type": "casa",
+  "category": "venda",
+  "price": 520000,
+  "condoFee": 0,
+  "iptuAnnual": 850,
+  "neighborhood": "Campo Grande (Brito)",
+  "address": "Rua Professor Castilho, 140",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "suites": 1,
+  "parkingSpaces": 2,
+  "areaSqM": 180,
+  "featured": false,
+  "description": "Casa linear reformada e independente no bairro Brito em Campo Grande. Conta com quintal arborizado na frente e nos fundos, varanda agradável, sala ampla, 3 quartos sendo 1 suíte, copa-cozinha com armários embutidos e área de serviço separada. Vaga para 2 carros. Aceita financiamento por qualquer instituição bancária.",
+  "images": [
+    "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Casa Linear Independente (Sem Condomínio)",
+    "Quintal Arborizado",
+    "Portão Eletrônico",
+    "Copa Cozinha Planejada",
+    "Doc. 100% Ok para Financiamento Bancário",
+    "Próximo a Escolas e Comércio"
+  ],
+  "createdAt": "2026-07-20"
+}

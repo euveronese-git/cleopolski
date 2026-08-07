@@ -1,0 +1,33 @@
+{
+  "id": "cg-106",
+  "code": "REF-CG106",
+  "title": "Terreno Plano Pronto para Construção em Condomínio",
+  "type": "terreno",
+  "category": "venda",
+  "price": 260000,
+  "condoFee": 320,
+  "iptuAnnual": 450,
+  "neighborhood": "Campo Grande (Park Hills / Vasconcelos)",
+  "address": "Estrada do Campinho, 1850",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "bedrooms": 0,
+  "bathrooms": 0,
+  "suites": 0,
+  "parkingSpaces": 0,
+  "areaSqM": 360,
+  "featured": false,
+  "description": "Excelente terreno plano medindo 12x30 (360m²) localizado em condomínio fechado de alto padrão com infraestrutura completa. Ruas asfaltadas, saneamento, rede elétrica e água tratada. Lazer no condomínio com quadra poliesportiva, salão de festas e campo de futebol.",
+  "images": [
+    "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1628744448840-55bdb2497bd4?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "features": [
+    "Terreno 100% Plano (12x30m)",
+    "Condomínio Fechado com Segurança",
+    "Quadra Poliesportiva e Campo",
+    "Pronto para Construir",
+    "RTM e Registro RGI Individualizado"
+  ],
+  "createdAt": "2026-07-15"
+}
