@@ -237,19 +237,30 @@ export const ContactSection: React.FC = () => {
                 </div>
               </div>
 
-              {/* Embedded Responsive Google Map Iframe for Estrada das Capoeiras 563 Campo Grande RJ */}
-              <div className="relative aspect-[16/10] rounded-2xl overflow-hidden border border-[#E0D6C8] shadow-inner">
-                <iframe
-                  title="Localização C. Leopolski Corretora de Imóveis"
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.2926710497746!2d-43.55981292383827!3d-22.90255863836371!2m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9be1350174092b%3A0x86bb7889e4776ba0!2sEstr.%20das%20Capoeiras%2C%20563%20-%20Campo%20Grande%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2023085-660!5e0!3m2!1spt-BR!2sbr!4v1700000000000!5m2!1spt-BR!2sbr"
-                  width="100%"
-                  height="100%"
-                  style={{ border: 0 }}
-                  allowFullScreen={false}
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                  className="w-full h-full"
-                />
+              {/* Embedded Google Map — Estrada das Capoeiras 563, Campo Grande RJ */}
+              <div className="space-y-2">
+                <div className="relative aspect-[16/10] rounded-2xl overflow-hidden border border-[#E0D6C8] shadow-inner">
+                  <iframe
+                    title="Localização C. Leopolski Corretora de Imóveis"
+                    src="https://www.google.com/maps?q=Estrada+das+Capoeiras,+563+-+Campo+Grande,+Rio+de+Janeiro+-+RJ,+23085-660&z=17&output=embed"
+                    width="100%"
+                    height="100%"
+                    style={{ border: 0 }}
+                    allowFullScreen
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    className="w-full h-full"
+                  />
+                </div>
+                <a
+                  href="https://www.google.com/maps/search/?api=1&query=Estrada+das+Capoeiras,+563+-+Campo+Grande,+Rio+de+Janeiro+-+RJ,+23085-660"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#C5A059] hover:text-[#3E2723] transition-colors"
+                >
+                  <MapPin className="w-3.5 h-3.5" />
+                  Abrir no Google Maps
+                </a>
               </div>
             </div>
           </div>
