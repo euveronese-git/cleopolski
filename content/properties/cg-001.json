@@ -1,0 +1,28 @@
+{
+  "areaSqM": 150,
+  "parkingSpaces": 0,
+  "bathrooms": 2,
+  "price": 150000,
+  "city": "Rio de Janeiro",
+  "code": "REF-CG001",
+  "featured": false,
+  "neighborhood": "Senador Camara",
+  "state": "RJ",
+  "address": "Não informado",
+  "bedrooms": 2,
+  "title": " Casa para Venda no bairro senador camara, localizado na cidade de Rio de Janeiro / RJ.",
+  "images": [
+    "/uploads/whatsapp-image-2026-08-06-at-12.26.29-2-.jpeg",
+    "/uploads/whatsapp-image-2026-08-06-at-12.26.29-3-.jpeg"
+  ],
+  "condoFee": "",
+  "type": "casa",
+  "suites": 0,
+  "id": "cg-001",
+  "createdAt": "2026-08-11",
+  "description": "Casa para Venda no bairro senador camara, localizado na cidade de Rio de Janeiro / RJ.\n\nCasa com 2 dormitórios,  2 banheiros,  sala, cozinha, area, quintal,varanda, garagem e terraço.  churrasqueira.",
+  "features": [
+    "Casa com dois andares"
+  ],
+  "category": "venda"
+}
