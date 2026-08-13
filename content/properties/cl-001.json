@@ -4,7 +4,7 @@
   "bathrooms": 8,
   "price": 1200000,
   "city": "Rio de Janeiro",
-  "code": "CL- 001",
+  "code": "CL- 002",
   "featured": true,
   "neighborhood": "Campo Grande",
   "state": "RJ",
@@ -26,7 +26,7 @@
   "condoFee": 450,
   "type": "casa",
   "suites": 4,
-  "id": "CG-001",
+  "id": "CG-002",
   "createdAt": "2026-08-13",
   "description": "\nCasa tríplex; em Condomínio para Venda, girassol no bairro mendanha,  campo grande.\n\nCom 4 dormitórios, sendo 4 suítes, a suíte master com 2 banheiros e duas  sacadas para o sol da manha com hidromassagem, sauna e closet. possui 8 banheiros, 2 vagas de garagem, piscina aquecida sauna quente e a vapor, área gourmet  com banheiro, sala com 7 x4.\n\nEnergia solar.\nÁrea Construída com 564,00 m².",
   "category": "venda"
