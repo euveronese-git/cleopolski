@@ -1,0 +1,24 @@
+{
+  "areaSqM": 450,
+  "parkingSpaces": 2,
+  "bathrooms": 3,
+  "price": 900000,
+  "city": "Rio de Janeiro",
+  "code": "CL003",
+  "featured": true,
+  "neighborhood": "Campo Grande",
+  "state": "RJ",
+  "address": "R. Eng. Trindade,, 455 - Rio de Janeiro ",
+  "bedrooms": 3,
+  "title": "Casa Duplex Estilo Antigo, Imóvel Comercial e Residencial centro de Campo Grande",
+  "images": [
+    "/uploads/whatsapp-image-2026-08-06-at-11.23.01.jpeg",
+    "/uploads/whatsapp-image-2026-08-06-at-11.23.01-2-.jpeg"
+  ],
+  "type": "casa",
+  "suites": 0,
+  "id": "CG 003",
+  "createdAt": "2026-08-13",
+  "description": "\n \n\nCasa Duplex Estilo Antigo, Imóvel Comercial e Residencial. Parte superior: composta por 3 quartos, sala e varanda. Na parte inferior. Sala ,varanda , cozinha, quintal e garagem garantem segurança e conveniência Imagine morar em uma residência que une amplitude e conforto em um terreno de 450 m² bem no Centro de Campo Grande, com ponto de referência na OAB local. – perfeita para receber amigos e organizar confraternizações memoráveis. Situada em uma das regiões mais procuradas da zona Oeste do Rio de Janeiro, a propriedade está a poucos passos de bares e restaurantes charmosos, escolas renomadas, farmácias e supermercados, atendendo ao seu dia a dia com máxima praticidade. Aqui, você encontra o equilíbrio ideal entre a agitação urbana e a tranquilidade de um lar espaçoso, pensado para quem valoriza bem-estar e sofisticação sem abrir mão da praticidade. Não perca a oportunidade de transformar este endereço no palco de novas conquistas e momentos inesquecíveis: agende já a sua visita e descubra o verdadeiro significado de viver bem!\n\nProprietário escuta proposta!!!\nZenilda (21)992633503\nCelia (21)972860230\n",
+  "category": "venda"
+}
