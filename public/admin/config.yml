@@ -61,7 +61,21 @@ collections:
         widget: list
         allow_add: true
         min: 1
-        field: { label: Foto, name: image, widget: image }
+        hint: "Clique em uma foto → Abrir biblioteca Cloudinary → selecione várias imagens de uma vez no Windows."
+        field:
+          label: Foto
+          name: image
+          widget: image
+          allow_multiple: true
+          media_library:
+            name: cloudinary
+            config:
+              cloud_name: __CLOUDINARY_CLOUD_NAME__
+              api_key: __CLOUDINARY_API_KEY__
+              multiple: true
+              default_transformations:
+                - - fetch_format: auto
+                    quality: auto
       - label: Características
         name: features
         widget: list
