@@ -70,8 +70,8 @@ collections:
           media_library:
             name: cloudinary
             config:
-              cloud_name: __CLOUDINARY_CLOUD_NAME__
-              api_key: __CLOUDINARY_API_KEY__
+              cloud_name: qodjrluz
+              api_key: "823687155364381"
               multiple: true
               default_transformations:
                 - - fetch_format: auto
