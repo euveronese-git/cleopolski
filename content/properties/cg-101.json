@@ -7,7 +7,7 @@
   "city": "Rio de Janeiro",
   "code": "REF-CL005",
   "featured": true,
-  "neighborhood": "Campo Grande (Próximo ao West Shopping)",
+  "neighborhood": "Campo Grande (Adriana 5)",
   "state": "RJ",
   "address": "jaime barreiros",
   "featuredBadge": "Destaque Luxo",
@@ -31,8 +31,6 @@
   "id": "cg-005",
   "createdAt": "2026-08-13",
   "description": "Espetacular casa duplex; no bairro Adriana em Campo Grande. Imóvel com sala, \n 4 dormitórios, sendo 2 suítes, possui 4 banheiros, 2 varandas, 2 vagas de garagem, \n\nProximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado.\n\n\nCelia (21) 972860230\n(21)24132878 ",
-  "features": [
-    "Aceita Financiamento Bancário / FGTS"
-  ],
+  "features": [],
   "category": "venda"
 }
