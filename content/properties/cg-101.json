@@ -13,12 +13,23 @@
   "featuredBadge": "Destaque Luxo",
   "bedrooms": 4,
   "title": "Casa Duplex de Alto Padrão B Adriana",
-  "images": [],
+  "images": [
+    "/uploads/img-20220427-wa0066.jpg",
+    "/uploads/img-20220427-wa0065.jpg",
+    "/uploads/img-20220427-wa0064.jpg",
+    "/uploads/img-20220427-wa0071.jpg",
+    "/uploads/img-20220427-wa0083.jpg",
+    "/uploads/img-20220427-wa0082.jpg",
+    "/uploads/img-20220427-wa0081.jpg",
+    "/uploads/img-20220427-wa0077-1-.jpg",
+    "/uploads/img-20220427-wa0088.jpg",
+    "/uploads/img-20220427-wa0087.jpg"
+  ],
   "condoFee": "",
   "type": "casa",
   "suites": 3,
   "id": "cg-005",
-  "createdAt": "2026-07-28",
+  "createdAt": "2026-08-13",
   "description": "Espetacular casa duplex; no bairro Adriana em Campo Grande. Imóvel com sala, \n 4 dormitórios, sendo 2 suítes, possui 4 banheiros, 2 varandas, 2 vagas de garagem, \n\nProximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado.\n\n\nCelia (21) 972860230\n(21)24132878 ",
   "features": [
     "Aceita Financiamento Bancário / FGTS"
