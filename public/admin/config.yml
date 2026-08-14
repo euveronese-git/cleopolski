@@ -7,6 +7,13 @@ local_backend: true
 media_folder: public/uploads
 public_folder: /uploads
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: qodjrluz
+    api_key: "823687155364381"
+    multiple: true
+
 locale: pt
 
 collections:
