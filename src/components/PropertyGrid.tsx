@@ -1,7 +1,7 @@
 import React from 'react';
 import { Property, PropertyFilterState, PropertyType } from '../types';
 import { PropertyCard } from './PropertyCard';
-import { Search, SlidersHorizontal, RotateCcw, Home, Building2, Layers, Briefcase, LandPlot } from 'lucide-react';
+import { Search, SlidersHorizontal, RotateCcw, Home, Building2, Layers, Briefcase, LandPlot, Trees } from 'lucide-react';
 
 interface PropertyGridProps {
   properties: Property[];
@@ -74,6 +74,7 @@ export const PropertyGrid: React.FC<PropertyGridProps> = ({
     { label: 'Coberturas', value: 'cobertura', icon: <Building2 className="w-4 h-4" /> },
     { label: 'Comerciais', value: 'comercial', icon: <Briefcase className="w-4 h-4" /> },
     { label: 'Terrenos', value: 'terreno', icon: <LandPlot className="w-4 h-4" /> },
+    { label: 'Sítios', value: 'sitio', icon: <Trees className="w-4 h-4" /> },
   ];
 
   return (

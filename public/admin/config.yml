@@ -41,6 +41,7 @@ collections:
           - { label: Cobertura, value: cobertura }
           - { label: Comercial, value: comercial }
           - { label: Terreno, value: terreno }
+          - { label: Sítio, value: sitio }
       - label: Categoria
         name: category
         widget: select

@@ -115,6 +115,7 @@ export const PropertyEvaluationModal: React.FC<PropertyEvaluationModalProps> = (
                     <option value="cobertura">Cobertura</option>
                     <option value="comercial">Sala Comercial</option>
                     <option value="terreno">Terreno</option>
+                    <option value="sitio">Sítio</option>
                   </select>
                 </div>
               </div>

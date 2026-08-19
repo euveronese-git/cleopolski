@@ -131,6 +131,7 @@ export const Hero: React.FC<HeroProps> = ({
                 <option value="cobertura">Coberturas</option>
                 <option value="comercial">Salas Comerciais</option>
                 <option value="terreno">Terrenos</option>
+                <option value="sitio">Sítios</option>
               </select>
             </div>
 

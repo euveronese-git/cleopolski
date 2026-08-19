@@ -1,4 +1,4 @@
-export type PropertyType = 'casa' | 'apartamento' | 'cobertura' | 'comercial' | 'terreno';
+export type PropertyType = 'casa' | 'apartamento' | 'cobertura' | 'comercial' | 'terreno' | 'sitio';
 export type ListingCategory = 'venda' | 'aluguel' | 'lancamento';
 
 export interface Property {

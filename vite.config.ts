@@ -4,6 +4,29 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig, loadEnv, type Plugin} from 'vite';
 
+function serveDecapAdmin(): Plugin {
+  const adminIndex = path.resolve(__dirname, 'public/admin/index.html');
+  const middleware = (req: {url?: string}, res: {setHeader: (k: string, v: string) => void; end: (b: string) => void}, next: () => void) => {
+    const url = req.url?.split('?')[0];
+    if (url !== '/admin' && url !== '/admin/') {
+      next();
+      return;
+    }
+    res.setHeader('Content-Type', 'text/html; charset=utf-8');
+    res.end(fs.readFileSync(adminIndex, 'utf8'));
+  };
+
+  return {
+    name: 'serve-decap-admin',
+    configureServer(server) {
+      server.middlewares.use(middleware);
+    },
+    configurePreviewServer(server) {
+      server.middlewares.use(middleware);
+    },
+  };
+}
+
 function injectCloudinaryCmsConfig(cloudName: string, apiKey: string): Plugin {
   const replace = (source: string) =>
     source
@@ -38,7 +61,7 @@ export default defineConfig(({mode}) => {
   const apiKey = env.CLOUDINARY_API_KEY || '';
 
   return {
-    plugins: [react(), tailwindcss(), injectCloudinaryCmsConfig(cloudName, apiKey)],
+    plugins: [serveDecapAdmin(), react(), tailwindcss(), injectCloudinaryCmsConfig(cloudName, apiKey)],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
