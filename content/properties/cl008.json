@@ -1,0 +1,41 @@
+{
+  "areaSqM": 253,
+  "parkingSpaces": 2,
+  "bathrooms": 2,
+  "price": 355,
+  "city": "Rio de Janeiro",
+  "code": "Cl008",
+  "featured": true,
+  "neighborhood": "Campo Grande",
+  "state": "RJ",
+  "address": "esplanada ",
+  "bedrooms": 3,
+  "title": "Casa 3 quartos eplanada",
+  "images": [
+    [
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516835/WhatsApp_Image_2026-10-07_at_13.57.23_2.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516835/WhatsApp_Image_2026-10-07_at_13.57.23.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516836/WhatsApp_Image_2026-10-07_at_13.57.23_4.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516834/WhatsApp_Image_2026-10-07_at_13.57.22.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516835/WhatsApp_Image_2026-10-07_at_13.57.23_1.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516835/WhatsApp_Image_2026-10-07_at_13.57.23_3.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516833/WhatsApp_Image_2026-10-07_at_13.57.22_3.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516834/WhatsApp_Image_2026-10-07_at_13.57.22_4.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516834/WhatsApp_Image_2026-10-07_at_13.57.22_5.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.21_3.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516833/WhatsApp_Image_2026-10-07_at_13.57.22_1.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516833/WhatsApp_Image_2026-10-07_at_13.57.22_2.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.21_2.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.20.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.21_1.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.21.jpg"
+    ]
+  ],
+  "condoFee": "",
+  "type": "casa",
+  "suites": 1,
+  "id": "CL008",
+  "createdAt": "2026-10-20",
+  "description": "Casa: Linear com 3 quartos sendo 1 suíte, com sala, cozinha, area de serviço, varanda quintal e garagem para 2 carros. Somente a vista!\nvalores sujeitos a alterações! \n21 24132878",
+  "category": "venda"
+}
