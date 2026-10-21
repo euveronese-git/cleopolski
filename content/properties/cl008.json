@@ -11,7 +11,26 @@
   "address": "esplanada ",
   "bedrooms": 3,
   "title": "Casa 3 quartos eplanada",
-  "images": [],
+  "images": [
+    [
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516835/WhatsApp_Image_2026-10-07_at_13.57.23_2.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516835/WhatsApp_Image_2026-10-07_at_13.57.23.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516836/WhatsApp_Image_2026-10-07_at_13.57.23_4.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516834/WhatsApp_Image_2026-10-07_at_13.57.22.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516835/WhatsApp_Image_2026-10-07_at_13.57.23_1.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516835/WhatsApp_Image_2026-10-07_at_13.57.23_3.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516833/WhatsApp_Image_2026-10-07_at_13.57.22_3.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516834/WhatsApp_Image_2026-10-07_at_13.57.22_4.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516834/WhatsApp_Image_2026-10-07_at_13.57.22_5.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.21_3.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516833/WhatsApp_Image_2026-10-07_at_13.57.22_1.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516833/WhatsApp_Image_2026-10-07_at_13.57.22_2.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.21_2.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.20.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.21_1.jpg",
+      "https://res.cloudinary.com/qodjrluz/image/upload/f_auto,q_auto/v1792516832/WhatsApp_Image_2026-10-07_at_13.57.21.jpg"
+    ]
+  ],
   "condoFee": "",
   "type": "casa",
   "suites": 1,
