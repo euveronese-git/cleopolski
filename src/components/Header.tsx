@@ -68,6 +68,12 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
 
           <div className="flex items-center gap-4">
+            <a
+              href="/admin/"
+              className="hover:text-[#C5A059] transition-colors font-medium"
+            >
+              Painel
+            </a>
             <a 
               href="https://instagram.com/c.leopolskikorretora" 
               target="_blank" 
@@ -202,6 +208,13 @@ export const Header: React.FC<HeaderProps> = ({
                 {link.name}
               </a>
             ))}
+
+            <a
+              href="/admin/"
+              className="text-[#3E2723] font-semibold text-base py-2 border-b border-[#EFE9E0]"
+            >
+              Painel
+            </a>
 
             <div className="flex flex-col gap-2 pt-2">
               <button
